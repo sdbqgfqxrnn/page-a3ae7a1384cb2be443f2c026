@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3ff72fc90f1cb67d049df054",
+  "owner": "sdbqgfqxrnn",
+  "repo": "page-a3ae7a1384cb2be443f2c026",
+  "title": "clashmi苹果",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a3ae7a1384cb2be443f2c026",
+      "a": "clashmi苹果",
+      "b": "",
+      "entity": "clashmi苹果",
+      "brand": "clashmi苹果",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c2fe629ecaece03433ebb2a8ac3150968c6569e2717e9d4233fc664272ccfb12",
+      "content": {
+        "keyword1": "clashmi苹果",
+        "keyword2": "",
+        "primary_entity": "clashmi苹果",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi苹果提供苹果iOS/Mac设备专属VPN加速器，客户端下载，基础版、旗舰版、团队版订阅方案，支持高速节点、流媒体解锁和设备在线。",
+          "AI_DESCRIPTION": "clashmi苹果提供苹果iOS/Mac设备专属VPN加速器，客户端下载，基础版、旗舰版、团队版订阅方案，支持高速节点、流媒体解锁和设备在线。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:800px;margin:0 auto;background:#f8f4eb;color:#333;line-height:1.6;padding:20px;}\nh1{color:#1e7a3e;font-size:2em;}\nh2{color:#1e7a3e;font-size:1.5em;}\na{color:#1e7a3e;}\na:hover{text-decoration:underline;}\n.plans{display:flex;flex-wrap:wrap;gap:20px;justify-content:center;}\n.card{background:#fff;border:1px solid #ddd;border-radius:8px;padding:20px;flex:1;min-width:280px;}\n.card.featured{border-color:#1e7a3e;box-shadow:0 0 0 3px rgba(30,122,62,0.1);}\n.plan-name{font-size:1.25em;font-weight:bold;margin-bottom:10px;}\n.price{font-size:1.8em;color:#1e7a3e;margin-bottom:10px;}\n.features{list-style:none;padding:0;margin:0;}\n.features li{padding:8px 0;border-bottom:1px solid #f0f0f0;}\n.features li:last-child{border-bottom:none;}\n</style>\n\n\n<main>\n<h1>clashmi苹果</h1>\n<p>clashmi苹果是苹果设备专属的VPN加速器，提供稳定高速节点，帮助用户畅享无障碍上网体验。</p>\n<h2>品牌简介</h2>\n<p>clashmi苹果专注于苹果iOS/Mac设备，结合先进技术提供优质VPN服务。无论日常浏览还是海外访问，都能获得流畅稳定连接。</p>\n<h2>使用场景</h2>\n<ul>\n<li>远程办公与出差旅行</li>\n<li>观看Netflix、YouTube等国际平台内容</li>\n<li>在线游戏加速优化</li>\n<li>社交媒体访问无限制</li>\n</ul>\n<h2>客户端下载与操作指南</h2>\n<ol>\n<li>访问官网下载Clash for Apple客户端（App Store搜索“Clash for Apple”）</li>\n<li>选择订阅方案并完成支付获取订阅链接</li>\n<li>在Clash客户端中导入订阅URL</li>\n<li>选择优质节点一键连接即可加速上网</li>\n</ol>\n<h2>订阅方案</h2>\n<div class=\"plans\">\n<div class=\"card\">\n<div class=\"plan-name\">基础版</div>\n<div class=\"price\">¥15/月</div>\n<div class=\"price\">按年付仅需 ¥150/年</div>\n<ul class=\"features\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div class=\"card featured\">\n<div class=\"plan-name\">旗舰版</div>\n<div class=\"price\">¥35/月</div>\n<div class=\"price\">按年付仅需 ¥350/年</div>\n<ul class=\"features\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"card\">\n<div class=\"plan-name\">团队版</div>\n<div class=\"price\">¥85/月</div>\n<div class=\"price\">按年付仅需 ¥850/年</div>\n<ul class=\"features\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n</div>\n<h2>常见问题 FAQ</h2>\n<details>\n<summary>什么是clashmi苹果？</summary>\n<p>clashmi苹果是专为苹果iOS和Mac设备设计的VPN加速服务，提供优质节点池和流媒体解锁功能。</p>\n</details>\n<details>\n<summary>如何下载客户端？</summary>\n<p>请访问官网或App Store下载Clash for Apple客户端，获取最新版本。</p>\n</details>\n<details>\n<summary>clashmi苹果支持哪些设备？</summary>\n<p>支持iOS系统和macOS设备，使用Clash for Apple客户端。</p>\n</details>\n<details>\n<summary>不同订阅版本有何区别？</summary>\n<p>基础版适合个人使用，旗舰版提供游戏加速和优先支持，团队版适合企业多设备和高流量需求。</p>\n</details>\n<details>\n<summary>如何获取订阅链接？</summary>\n<p>订阅成功后，在用户中心或官网账户页面获取节点订阅URL，导入Clash客户端。</p>\n</details>\n<details>\n<summary>支持流媒体解锁吗？</summary>\n<p>旗舰版及以上版本支持Netflix、Disney+等主流流媒体原生解锁。</p>\n</details>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "91edd25851c66b115d43087850598a27ff26ff4aa6fb47048fdedae57cf92d82",
+          "seo": {
+            "title": "clashmi苹果 - 苹果设备专属VPN加速器 | 客户端下载",
+            "keywords": "clashmi苹果,苹果客户端,vpn加速器,clash订阅,机场下载,官网下载",
+            "description": "clashmi苹果提供苹果iOS/Mac设备专属VPN加速器，客户端下载，基础版、旗舰版、团队版订阅方案，支持高速节点、流媒体解锁和设备在线。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "0jffgoq.cn",
+    "host": "p-28bd65a707.0jffgoq.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1951ae686a6ebdd2f5e0aec01d725f5f090780bfe82b0ec5a2f4003728696ba4",
+    "sitemap.xml": "09f8e4403d0ed67e7ac04d6c7999eef0c05e7a9aa24b38f13457703afa41a8ba",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f476c6f792793b5d94ffa5010a4cdb62d3eaaa17e6b6d21a7605de13a2b99d26",
+    "robots.txt": "20b0c2cc7e9bcee08a52b9255e26a52b2b24830e14d8c41802906ba341b56c4e",
+    "d65cec14ccc9d533989b7bcbe21e849b.txt": "07ad7c175773916222e39dc47131f215e745fb876f07118e576304676d386e0f"
+  },
+  "revision": "c57750386a89dc8b27c753c16d3ac76e8937d954f8adbc5147dc14c42b3beeb5"
+}
